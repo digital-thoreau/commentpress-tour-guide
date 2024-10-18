@@ -61,6 +61,15 @@ if ( ! defined( 'COMMENTPRESS_TOUR_GUIDE_PATH' ) ) {
 class CommentPress_Tour_Guide {
 
 	/**
+	 * The ID of the Help Page.
+	 *
+	 * @since 0.1.4
+	 * @access public
+	 * @var integer
+	 */
+	public $post_id = 7;
+
+	/**
 	 * Minfied scripts identifer.
 	 *
 	 * @since 0.1
@@ -140,7 +149,7 @@ class CommentPress_Tour_Guide {
 
 		// No need to show on the help page itself.
 		global $post;
-		if ( is_object( $post ) && '7' === (int) $post->ID ) {
+		if ( is_object( $post ) && $this->post_id === (int) $post->ID ) {
 			return;
 		}
 
@@ -181,7 +190,7 @@ class CommentPress_Tour_Guide {
 		if ( ! is_object( $post ) ) {
 			return false;
 		}
-		if ( '7' !== (int) $post->ID ) {
+		if ( $this->post_id !== (int) $post->ID ) {
 			return false;
 		}
 

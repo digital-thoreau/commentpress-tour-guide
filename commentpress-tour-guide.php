@@ -135,7 +135,7 @@ class CommentPress_Tour_Guide {
 			// Deprecated argument.
 			'',
 			// Relative path to translation files.
-			dirname( plugin_basename( COMMENTPRESS_JSTOR_FILE ) ) . '/languages/'
+			dirname( plugin_basename( COMMENTPRESS_TOUR_GUIDE_FILE ) ) . '/languages/'
 		);
 
 	}

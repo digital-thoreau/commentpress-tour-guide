@@ -187,10 +187,7 @@ class CommentPress_Tour_Guide {
 
 		// Only load on "How to Read" page.
 		global $post;
-		if ( ! is_object( $post ) ) {
-			return false;
-		}
-		if ( $this->post_id !== (int) $post->ID ) {
+		if ( ! is_object( $post ) || $this->post_id !== (int) $post->ID ) {
 			return false;
 		}
 
@@ -235,8 +232,6 @@ class CommentPress_Tour_Guide {
 		);
 
 	}
-
-
 
 	/**
 	 * Add our front-end Javascripts.

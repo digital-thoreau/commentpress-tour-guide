@@ -1,0 +1,107 @@
+/**
+ * CommentPress Tour Guide Styles.
+ *
+ * Implements the Intro.js tour.
+ *
+ * @since 0.1
+ */
+
+.introjs-helperLayer
+{
+	display: none !important;
+}
+
+.introjs-helperNumberLayer
+{
+	display: none !important;
+}
+
+#switcher.introjs-fixParent
+{
+	z-index: 1000 !important;
+	position: fixed !important;
+}
+
+#wrapper.introjs-fixParent
+{
+	z-index: auto !important;
+	position: relative !important;
+}
+
+.post.introjs-fixParent
+{
+	position: relative !important;
+}
+
+#navigation.introjs-fixParent
+{
+	z-index: auto !important;
+	position: fixed !important;
+	height: 100%;
+}
+
+#sidebar.introjs-showElement
+{
+	height: 100%;
+}
+
+#sidebar.introjs-fixParent
+{
+	z-index: auto !important;
+	position: fixed !important;
+	height: 100%;
+}
+
+.commentpress_start_tour
+{
+	position: absolute;
+	top: 20px;
+	right: 140px;
+}
+
+.introjs-tooltip
+{
+	background: #FFFFCC;
+}
+
+
+
+/* Admin Bar Menu Item */
+#wpadminbar #wp-admin-bar-walden-help > .ab-item:before
+{
+	content: "\f223";
+	top: 2px;
+}
+
+@media screen and (max-width: 782px) {
+
+	#wpadminbar #wp-admin-bar-walden-help
+	{
+		display: block;
+	}
+
+	#wpadminbar #wp-admin-bar-walden-help > .ab-item
+	{
+		text-indent: 100%;
+		white-space: nowrap;
+		overflow: hidden;
+		width: 52px;
+		padding: 0;
+		color: #999;
+		position: relative;
+	}
+
+	#wpadminbar #wp-admin-bar-walden-help > .ab-item:before
+	{
+		display: block;
+		text-indent: 0;
+		font: 400 32px/1 dashicons;
+		speak: none;
+		top: 7px;
+		width: 52px;
+		text-align: center;
+		-webkit-font-smoothing: antialiased;
+		-moz-osx-font-smoothing: grayscale;
+	}
+
+}

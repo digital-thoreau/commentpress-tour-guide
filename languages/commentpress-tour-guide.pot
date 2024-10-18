@@ -1,0 +1,100 @@
+# Copyright (C) 2024 Christian Wach
+# This file is distributed under the GPLv2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: CommentPress Tour Guide 0.1.4\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/commentpress-tour-guide\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-10-18T19:53:56+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.11.0\n"
+"X-Domain: commentpress-tour-guide\n"
+
+#. Plugin Name of the plugin
+#: commentpress-tour-guide.php
+msgid "CommentPress Tour Guide"
+msgstr ""
+
+#. Plugin URI of the plugin
+#: commentpress-tour-guide.php
+msgid "https://github.com/digital-thoreau/commentpress-tour-guide"
+msgstr ""
+
+#. Description of the plugin
+#: commentpress-tour-guide.php
+msgid "Creates a tour of CommentPress using Intro.js."
+msgstr ""
+
+#. Author of the plugin
+#: commentpress-tour-guide.php
+msgid "Christian Wach"
+msgstr ""
+
+#. Author URI of the plugin
+#: commentpress-tour-guide.php
+msgid "https://haystack.co.uk"
+msgstr ""
+
+#: commentpress-tour-guide.php:153
+msgid "Take a Tour"
+msgstr ""
+
+#: commentpress-tour-guide.php:269
+msgid "Start tour"
+msgstr ""
+
+#: commentpress-tour-guide.php:305
+msgid "Click or tap the \"Navigate\" button to reveal the \"Contents\" column."
+msgstr ""
+
+#: commentpress-tour-guide.php:310
+msgid "The \"Contents\" column helps you move between sections of the site."
+msgstr ""
+
+#: commentpress-tour-guide.php:316
+msgid "Click or tap \"Search\" to reveal the search bar below."
+msgstr ""
+
+#: commentpress-tour-guide.php:322
+msgid "Click or tap \"Special Pages\" to find links to pages such as \"All Comments\" or \"Comments by Commenter\"."
+msgstr ""
+
+#: commentpress-tour-guide.php:328
+msgid "Click or tap a menu item to go to a chapter or page in the text."
+msgstr ""
+
+#: commentpress-tour-guide.php:334
+msgid "Click or tap a paragraph to read comments that have been left on it."
+msgstr ""
+
+#: commentpress-tour-guide.php:339
+msgid "Select some text and choose \"Quote and Comment\" to have the text added automatically to the top of your comment. The paragraph text will appear highlighted when your comment is saved."
+msgstr ""
+
+#: commentpress-tour-guide.php:344
+msgid "This is a paragraph permalink. Click or tap it to show a shareable link in your browser’s location bar."
+msgstr ""
+
+#: commentpress-tour-guide.php:350
+msgid "The comment bubble shows the number of comments on this paragraph. Click or tap it to bring the comment form into view."
+msgstr ""
+
+#: commentpress-tour-guide.php:356
+msgid "Click or tap the \"Comments\" button to read or reply to comments on the text."
+msgstr ""
+
+#: commentpress-tour-guide.php:361
+msgid "This is a comment. Click or tap the date to show a shareable link to this comment in your browser’s location bar."
+msgstr ""
+
+#: commentpress-tour-guide.php:367
+msgid "Click or tap \"Find references in JSTOR articles\" to retrieve summaries of articles in the JSTOR archives that relate to a particular paragraph."
+msgstr ""
+
+#: commentpress-tour-guide.php:373
+msgid "Click or tap the \"Activity\" button to see specific kinds of activity, such as recent comments on this page."
+msgstr ""

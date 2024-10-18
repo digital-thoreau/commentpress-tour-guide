@@ -9,7 +9,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2024-10-18T19:53:56+00:00\n"
+"POT-Creation-Date: 2024-10-18T20:00:22+00:00\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "X-Generator: WP-CLI 2.11.0\n"
 "X-Domain: commentpress-tour-guide\n"
@@ -39,62 +39,62 @@ msgstr ""
 msgid "https://haystack.co.uk"
 msgstr ""
 
-#: commentpress-tour-guide.php:153
+#: commentpress-tour-guide.php:162
 msgid "Take a Tour"
 msgstr ""
 
-#: commentpress-tour-guide.php:269
+#: commentpress-tour-guide.php:273
 msgid "Start tour"
 msgstr ""
 
-#: commentpress-tour-guide.php:305
+#: commentpress-tour-guide.php:309
 msgid "Click or tap the \"Navigate\" button to reveal the \"Contents\" column."
 msgstr ""
 
-#: commentpress-tour-guide.php:310
+#: commentpress-tour-guide.php:314
 msgid "The \"Contents\" column helps you move between sections of the site."
 msgstr ""
 
-#: commentpress-tour-guide.php:316
+#: commentpress-tour-guide.php:320
 msgid "Click or tap \"Search\" to reveal the search bar below."
 msgstr ""
 
-#: commentpress-tour-guide.php:322
+#: commentpress-tour-guide.php:326
 msgid "Click or tap \"Special Pages\" to find links to pages such as \"All Comments\" or \"Comments by Commenter\"."
 msgstr ""
 
-#: commentpress-tour-guide.php:328
+#: commentpress-tour-guide.php:332
 msgid "Click or tap a menu item to go to a chapter or page in the text."
 msgstr ""
 
-#: commentpress-tour-guide.php:334
+#: commentpress-tour-guide.php:338
 msgid "Click or tap a paragraph to read comments that have been left on it."
 msgstr ""
 
-#: commentpress-tour-guide.php:339
+#: commentpress-tour-guide.php:343
 msgid "Select some text and choose \"Quote and Comment\" to have the text added automatically to the top of your comment. The paragraph text will appear highlighted when your comment is saved."
 msgstr ""
 
-#: commentpress-tour-guide.php:344
+#: commentpress-tour-guide.php:348
 msgid "This is a paragraph permalink. Click or tap it to show a shareable link in your browser’s location bar."
 msgstr ""
 
-#: commentpress-tour-guide.php:350
+#: commentpress-tour-guide.php:354
 msgid "The comment bubble shows the number of comments on this paragraph. Click or tap it to bring the comment form into view."
 msgstr ""
 
-#: commentpress-tour-guide.php:356
+#: commentpress-tour-guide.php:360
 msgid "Click or tap the \"Comments\" button to read or reply to comments on the text."
 msgstr ""
 
-#: commentpress-tour-guide.php:361
+#: commentpress-tour-guide.php:365
 msgid "This is a comment. Click or tap the date to show a shareable link to this comment in your browser’s location bar."
 msgstr ""
 
-#: commentpress-tour-guide.php:367
+#: commentpress-tour-guide.php:371
 msgid "Click or tap \"Find references in JSTOR articles\" to retrieve summaries of articles in the JSTOR archives that relate to a particular paragraph."
 msgstr ""
 
-#: commentpress-tour-guide.php:373
+#: commentpress-tour-guide.php:377
 msgid "Click or tap the \"Activity\" button to see specific kinds of activity, such as recent comments on this page."
 msgstr ""

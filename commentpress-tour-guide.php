@@ -6,7 +6,7 @@
  * Description:       Creates a tour of CommentPress using Intro.js.
  * Plugin URI:        https://github.com/digital-thoreau/commentpress-tour-guide
  * GitHub Plugin URI: https://github.com/digital-thoreau/commentpress-tour-guide
- * Version:           0.1.4
+ * Version:           0.2.0a
  * Author:            Christian Wach
  * Author URI:        https://haystack.co.uk
  * License:           GPLv2 or later
@@ -35,7 +35,7 @@
 defined( 'ABSPATH' ) || exit;
 
 // Set our version here.
-define( 'COMMENTPRESS_TOUR_GUIDE_VERSION', '0.1.4' );
+define( 'COMMENTPRESS_TOUR_GUIDE_VERSION', '0.2.0a' );
 
 // Store reference to this file.
 if ( ! defined( 'COMMENTPRESS_TOUR_GUIDE_FILE' ) ) {
